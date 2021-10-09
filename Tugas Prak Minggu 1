@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tugas Praktikum 1 Pemweb RD - Daffa Praramadhana - 119140172</title>
+</head>
+<body>
+	<h1>DESTINASI WISATA di PROVINSI LAMPUNG</h1>
+	<ul id="nav">
+		<a href="">Home</a>
+		<a href="">Pantai Sari Riggung</a>
+		<a href="">Pulau Pahawang</a>
+		<a href="">Raman Nasional Way Kambas</a>
+		<style type="text/css">s
+			#nav{
+			display: block;
+ 			margin: -30px;
+ 			font-size: 90%;
+ 			background-color: #aaa;
+ 			padding: 10px 0;
+			}
+		</style>
+	</ul>
+
+	<hr>
+	<content>
+		<table>
+			<tr>
+				<td>
+					<h1>Pantai Sari Ringgung</h1>
+					<p>
+						Apabila kamu berangkat dari Tugu Adipura Bandar Lampung, Pantai Sari Ringgung berjarak sekitar 22 km dan bisa dicapai dengan berkendara selama kurang lebih 50 menit. Begitu sampai, kamu akan disambut dengan pemandangan pantai berpasir putih dan air laut berwarna biru jernih.
+					</p>
+				</td>
+			</tr>
+		</table>
+		<hr>
+		<table>
+			<tr>
+				<td>
+					
+					<h1>Pulau Pahawang</h1>
+					<p>Pulau Pahawang terdiri dari dua area, yakni Pahawang Besar dan Pahawang Kecil. Keduanya dikelilingi oleh pasir putih yang bersih. Tak ketinggalan air laut super jernih yang memungkinkan kamu untuk melihat biota laut di dalamnya. Kalau ingin lebih puas menikmati keindahan bawah laut, kamu bisa melakukan snorkeling dengan menyewa alatnya seharga Rp50.000 â Rp100.000.</p>
+				</td>
+			</tr>
+		</table>
+		<hr>
+		<table>
+			<tr>
+				<td>
+					<h1>Taman Nasional Way Kambas</h1>
+					<p>Taman Nasional Way Kambas (TNWK) adalah taman nasional perlindungan gajah yang terletak di daerah Lampung tepatnya di Kecamatan Labuhan Ratu, Lampung Timur, Indonesia. Selain di Way Kambas, sekolah gajah (Pusat Latihan Gajah) juga bisa ditemui di Minas, Riau. Gajah Sumatra (Elephas maximus sumatranus) yang hidup di kawasan ini semakin berkurang jumlahnya.
+
+					Taman Nasional Way Kambas berdiri pada tahun 1985 merupakan sekolah gajah pertama di Indonesia. Dengan nama awal Pusat Latihan Gajah (PLG) namun semenjak beberapa tahun terakhir ini namanya berubah menjadi Pusat Konservasi Gajah (PKG) yang diharapkan mampu menjadi pusat konservasi gajah dalam penjinakan, pelatihan, perkembangbiakan dan konservasi. Hingga sekarang PKG ini telah melatih sekitar 300 ekor gajah yang sudah disebar ke seluruh penjuru Tanah Air. Di Way Kambas juga tedapat International Rhino Foundation yang bertugas menjaga spesies badak agar tidak terancam punah.</p>
+				</td>
+			</tr>
+		</table>
+	</content>
+</body>
+<hr>
+<footer>
+	<p>Daffa Praramadhana - Praktikum PemWeb Mg1 &#169; 2021</p>
+	<a href="#">Kembali Ke Atas</a>
+</footer>
+</html>

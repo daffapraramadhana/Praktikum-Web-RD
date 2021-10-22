@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Praktikum 3-Daffa Praramadhana-119140172</title>
+</head>
+<body>
+	<h1>Website Praktikum 3</h1>
+	<p><b>Daffa Praramadhana - 119140172</b></p>
+
+	<label for="tema">Theme :</label>
+	<select name="Theme" id="Theme" onchange="getTheme()">
+		<option value="putih">Light Mode</option>
+		<option value="hitam">Dark Mode</option>
+	</select>
+	<br>
+	<p>-----------------------------------------</p>
+	<br>
+	<label>Variant Parfume :</label>
+	<select name="Parfume" id="Parfume" onchange="getParfume()">
+		<option value="1">Frech Vanilla</option>
+		<option value="2">Jasmine Blossom</option>
+		<option value="3">Wild Orchid</option>
+		<option value="4">Velvet Rose</option>
+		<option value="5">Resberry Souflle</option>
+	</select>
+	<p id="Variant_Parfume"></p>
+	<p>-----------------------------------------</p>
+	<br>
+	<div>
+		<label>Factorial Number</label>
+		<br>
+		<input type="text" id="faktorial">
+        <button onclick="faktorial()">Factorial</button>
+        <p><label for="" id="hasil"> </label></p>
+	</div>
+	
+	<script src="fungsi.js"></script>
+</body>
+</html>

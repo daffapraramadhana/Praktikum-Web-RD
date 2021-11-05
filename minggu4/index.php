@@ -51,7 +51,7 @@
     
     <br>
     <hr>
-    <h2>Hasil Data</h2>
+    <h2>Table Data Mahasiswa</h2>
     <div id="tampil_data">
         <script>
         $(document).ready(function(){
